@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9bd88d59-5c7b-4ec7-a59c-21c2bf52adb4/deploy-status)](https://app.netlify.com/sites/stoic-villani-435777/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9bd88d59-5c7b-4ec7-a59c-21c2bf52adb4/deploy-status)]
 
 # Profile
 
@@ -6,7 +6,7 @@
 * [Quasar Framework](https://quasar.dev/) & [Vue.js](https://vuejs.org/) 를 이용하여 만든 포트폴리오입니다.
 
 
-## SITE : [stoic-villani-435777.netlify.app](stoic-villani-435777.netlify.app)
+## SITE : [https://stoic-villani-435777.netlify.app/#/](https://stoic-villani-435777.netlify.app/#/)
 
 ## Screens UI
 

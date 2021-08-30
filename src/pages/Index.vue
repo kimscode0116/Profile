@@ -183,7 +183,7 @@
                     - 게임 웹사이트들에 있는 로그인, 랭킹, 커뮤니티 등의 기능을 모두 구현한 완성도 있는 웹을 구현
                   </div>
                   <div class="text-h4 q-mt-sm q-mb-xs">
-                    <q-btn align="around" class="btn-fixed-width" color="brown-5" href="https://github.com/kimscode0116" label="More Datails Here" icon="fab fa-github" />
+                    <q-btn align="around" class="btn-fixed-width" color="brown-5" type="a" href="https://github.com/kimscode0116/final_project_GamewebPage" label="More Datails Here" icon="fab fa-github" />
                   </div>
             </q-card-section>
               <div class="col-6">
@@ -220,7 +220,7 @@
                     - 수집된 데이트를 통해 실제 주식의 가치(주당 순이익)를 합산하여 최종으로 해당 주식의 구매 추천
                   </div>
                   <div class="text-h4 q-mt-sm q-mb-xs">
-                    <q-btn align="around" class="btn-fixed-width" color="brown-5" href="https://github.com/kimscode0116/kopoStockModel/tree/master/student/4th/%EA%B9%80%EC%9D%80%ED%98%9C" label="More Datails Here" icon="fab fa-github" />
+                    <q-btn align="around" class="btn-fixed-width" color="brown-5" type="a" href="https://github.com/kimscode0116/kopoStockModel/tree/master/student/4th/%EA%B9%80%EC%9D%80%ED%98%9C" label="More Datails Here" icon="fab fa-github" />
                   </div>
             </q-card-section>
               <div class="col-6">
@@ -239,7 +239,7 @@
             <q-card-section>
               <div class="text-overline text-black">VUE PROJECT</div>
                   <div class="text-h4 q-mt-sm q-mb-xs">
-                    <a class="project_link" style="text-decoration: none;color: #111111;" href="https://github.com/kimscode0116/final_project_GamewebPage" target="_blank">
+                    <a class="project_link" style="text-decoration: none;color: #111111;" href="https://github.com/kimscode0116/vue_js" target="_blank">
                     'TODO_LIST' Project</a>
                   </div>
                   <div class="text-caption text-grey-9">
@@ -257,7 +257,7 @@
                 </q-card-section>
                     </div>
                   <div class="text-h4 q-mt-sm q-mb-xs">
-                    <q-btn align="around" class="btn-fixed-width" color="brown-5" href="https://github.com/kimscode0116" label="More Datails Here" icon="fab fa-github" />
+                    <q-btn align="around" class="btn-fixed-width" color="brown-5" type="a" href="https://github.com/kimscode0116/vue_js" label="More Datails Here" icon="fab fa-github" />
                   </div>
             </q-card-section>
               <div class="col-6">
